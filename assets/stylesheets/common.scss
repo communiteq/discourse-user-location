@@ -1,0 +1,29 @@
+.user-location-info, .user-profile-location-info {
+  margin-top: 0.5em;
+  color: var(--primary-medium);
+  font-size: var(--font-down-1);
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  
+  .separator {
+    margin: 0 0.5em;
+    color: var(--primary-low-mid);
+  }
+}
+
+.user-profile-location-info {
+  margin-bottom: 1em;
+}
+
+.user-location {
+  display: flex;
+  align-items: center;
+  margin-top: 0.5em;
+  color: var(--primary-high-or-secondary-low);
+
+  .d-icon {
+    margin-right: 0.25em;
+    color: var(--primary-medium);
+  }
+}

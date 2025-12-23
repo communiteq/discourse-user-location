@@ -1,0 +1,5 @@
+en:
+  js:
+    user_location:
+      registered: "Registered In: %{country}"
+      current: "Located In: %{country}"
