@@ -33,6 +33,7 @@ Follow the standard [Install a Plugin](https://meta.discourse.org/t/install-a-pl
 ## Configuration
 
 *   **user_location_enabled**: (Default: true) Enable or disable the display of user locations.
+*   **user_location_exempt_groups**: (Default: empty) A list of groups whose members will not have their location displayed.
 
 ## Usage
 
