@@ -4,7 +4,7 @@ import I18n from "discourse-i18n";
 
 export default class UserLocation extends Component {
   get locationText() {
-    const locationData = this.args.user.user_location;
+    const locationData = this.args?.user?.user_location || this.args?.model?.user_location;
     if (!locationData) {
       return null;
     }

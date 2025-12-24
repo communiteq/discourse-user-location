@@ -1,6 +1,6 @@
 # name: discourse-user-location
 # about: Displays user registration and current location on user card and profile.
-# version: 1.0
+# version: 1.0.1
 # authors: Communiteq
 # url: https://github.com/communiteq/discourse-user-location
 
